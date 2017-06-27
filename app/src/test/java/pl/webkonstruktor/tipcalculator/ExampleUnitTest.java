@@ -1,4 +1,4 @@
-package pl.plawinet.tipcalculator;
+package pl.webkonstruktor.tipcalculator;
 
 import org.junit.Test;
 

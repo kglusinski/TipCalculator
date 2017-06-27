@@ -1,4 +1,4 @@
-package pl.plawinet.tipcalculator;
+package pl.webkonstruktor.tipcalculator;
 
 import java.text.NumberFormat;
 import android.support.v7.app.AppCompatActivity;
